@@ -18,5 +18,4 @@ public class _Main {
         ResultWriteService.printResult2(num1, num2, "multiplication", result2);
     }
 
-
 }
